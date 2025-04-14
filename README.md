@@ -13,7 +13,7 @@ This repository contains scripts for fine-tuning a BERT model on the MRPC datase
    Ensure you have Python 3 installed, then install dependencies. For saving models with safetensors, run:
 
    ```bash
-   python3 -m pip install safetensors
+   python3 -m pip install torch numpy transformers datasets evaluate scikit-learn
    ```
 
 2. **Install Other Requirements**
