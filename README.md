@@ -63,7 +63,7 @@ python inference.py --model_path /path/to/fine_tuned_model --max_length 128 --no
 ```
 
 ## Output
-The output file after a successful training should look like output_file_
+The output file after a successful training should look like output_file_format.txt.
 
 ---
 
