@@ -62,7 +62,13 @@ Usage example:
 python inference.py --model_path /path/to/fine_tuned_model --max_length 128 --noise_level 0.0
 ```
 
+## Output
+The output file after a successful training should look like output_file_
+
 ---
+
+
+
 
 ## Summary
 
