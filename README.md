@@ -70,6 +70,18 @@ The output file after a successful training should look like output_file_format.
 
 
 
+
+
+
+
+
+
+
+
+
+*special thanks to my brother for his help with the scripts and setup 
+
+
 ## Summary
 
 This setup allows you to experiment with BERT fine-tuning and inference performance while ensuring that your model is saved correctly and performance metrics are logged. Make sure to update the scripts as described and verify your environment settings before running the experiments. Happy experimenting!
